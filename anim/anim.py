@@ -1,5 +1,4 @@
 import pygame
-from . import esencial # Ejecuta el parche de pygame
 
 lista_frames = []
 fps = 60

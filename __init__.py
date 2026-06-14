@@ -1,4 +1,5 @@
-from .anim import *
-from . import canva
-from . import esencial
 import pygame
+from .anim import anim
+from .anim.anim import *
+from .anim import canva
+from .anim import esencial
